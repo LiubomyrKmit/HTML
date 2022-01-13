@@ -1,9 +1,48 @@
 body {
-    margin: 0;
+    padding: 0;
+    margin: 10px;
+    box-sizing: border-box;
 }
+
 .target {
     background: #892726;
-    width: border-box;
-    padding: 10px;
+    width: 100%;
+    text-align: end;
+    margin-top: 15px;
 
+}
+p {
+    margin-right: 150px;
+    color: #fff;
+}
+.target1 {
+    background: #C0C0C0;
+    width: 100%;
+    padding: 20px;
+    color: #191415;
+    font-size: 20px;
+}
+p {
+    color: #191415;
+}
+.target2 {
+    background: #6395EC;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+.target3 {
+    background: #6BBA67;
+    height: 300px;
+    width: 250px
+}
+.target4 {
+    background: #8886AB;
+    height: 300px;
+    width: 250px;
+    border-radius: 20px;
+}
+.q {
+    color: #F2E9D1;
 }
