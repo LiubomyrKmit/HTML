@@ -1,0 +1,46 @@
+body {
+    background: #191415;
+    margin-left: 45%;
+
+}
+
+.target1 {
+    height: 20px;
+    width: 150px;
+    border: 3px solid #FF6E1D;
+    padding: 10px;
+    color: #FF6E1D;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 30%;
+}
+.target2 {
+    height: 20px;
+    width: 150px;
+    border: 3px solid #2BFEF1;
+    padding: 10px;
+    color: #2BFEF1;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 10px;
+}
+.target3 {
+    height: 20px;
+    width: 150px;
+    border: 3px solid #FF54A6;
+    padding: 10px;
+    color: #FF54A6;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 10px;
+}
+.target4 {
+    height: 20px;
+    width: 150px;
+    border: 3px solid #DD3A3A;
+    padding: 10px;
+    color: #DD3A3A;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 10px;
+}
