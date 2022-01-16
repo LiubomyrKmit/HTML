@@ -1,0 +1,114 @@
+#container {
+    height: auto;
+    width: 1209px;
+    background: #EFEFEF;
+    border: 5px solid grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.A {
+    height: 100px;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    border-top: 4px solid white;
+    border-left: 4px solid white;
+    border-right: 4px solid white;
+    border-bottom: 4px solid white;
+}
+
+#container3 {
+    height: 100px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.B {
+    height: 100px;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+
+    border-left: 4px solid white;
+    border-bottom: 4px solid white;
+}
+
+#container1 {
+    height: auto;
+    background: #EFEFEF;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.C {
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    border-top: 4px solid white;
+    border-left: 4px solid white;
+    border-right: 4px solid white;
+    border-bottom: 4px solid white;
+
+}
+
+.D {
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    border-top: 4px solid white;
+
+    border-right: 4px solid white;
+    border-bottom: 4px solid white;
+
+}
+
+.E {
+    height: 100px;
+    width: 292px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    border-top: 4px solid white;
+
+
+    border-bottom: 4px solid white;
+
+}
+
+#container2 {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+
+.F {
+    height: 204px;
+    width: 296px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    border-right: 4px solid white;
+    border-bottom: 4px solid white;
+    border-left: 4px solid white;
+}
