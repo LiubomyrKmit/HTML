@@ -1,0 +1,65 @@
+#maincontainer{
+    padding-top: 15px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Widgets{
+    width: 480px;
+    height: 200px;
+    background: #2269BB;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #DBE6F4;
+}
+#container{
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    column-gap: 15px;
+}
+.BW{
+    width: 150px;
+    height: 200px;
+    background: #16457A;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #80A6B5;
+}
+.BGW{
+    width: 150px;
+    height: 200px;
+    background: #16457A;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #80A6B5;
+}
+.HW{
+    width: 150px;
+    height: 200px;
+    background: #16457A;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #80A6B5;
+}
+.Contact{
+    padding-top: 15px;
+    width: 480px;
+    height: 300px;
+    background: #2269BB;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #DBE6F4;
+}
