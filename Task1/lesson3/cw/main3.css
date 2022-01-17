@@ -38,7 +38,6 @@
     align-items: center;
     justify-content: center;
     color: black;
-
     border-left: 4px solid white;
     border-bottom: 4px solid white;
 }
@@ -73,7 +72,6 @@
     justify-content: center;
     color: black;
     border-top: 4px solid white;
-
     border-right: 4px solid white;
     border-bottom: 4px solid white;
 
@@ -87,8 +85,6 @@
     justify-content: center;
     color: black;
     border-top: 4px solid white;
-
-
     border-bottom: 4px solid white;
 
 }
