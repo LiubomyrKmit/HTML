@@ -1,0 +1,153 @@
+.bgsil {
+    background: #CCD9E2;
+}
+
+.h500 {
+    height: 500px;
+}
+
+.w800 {
+    width: 800px
+}
+
+.brdblue {
+    border: 3px solid #B1D3DD;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.w700 {
+    width: 700px;
+}
+
+.flex {
+    display: flex;
+}
+
+.jstcnt {
+    justify-content: center;
+}
+
+.mg10 {
+    margin: 10px;
+}
+
+.brdrd {
+    border-radius: 30px;
+}
+
+.mg30 {
+    margin: 30px;
+}
+
+.bcblue {
+    background: #102b3f;
+}
+
+.h8 {
+    height: 8px;
+}
+
+.w40 {
+    width: 40px;
+}
+
+.w15 {
+    width: 15px;
+}
+
+.jstspa {
+    justify-content: space-around;
+}
+
+.mgr2 {
+    margin-right: 2px;
+}
+
+.mgl2 {
+    margin-left: 2px;
+}
+
+.h80 {
+    height: 80px;
+}
+
+.w80 {
+    width: 80px;
+}
+
+.fldr {
+    flex-direction: row;
+}
+
+.brdrad10 {
+    border-radius: 10px;
+}
+
+.colmn {
+    flex-direction: column;
+}
+
+.h250 {
+    height: 250px;
+}
+
+.aliitem {
+    align-items: center;
+}
+
+.brdrad50 {
+    border-radius: 50%;
+}
+
+.clgap {
+    column-gap: 60px;
+}
+
+.pad30 {
+    padding: 30px;
+}
+
+.w30 {
+    width: 30px;
+}
+
+.alitemend {
+    align-items: flex-end;
+}
+
+.flxstrt {
+    justify-content: flex-start;
+}
+
+.rwgap {
+    row-gap: 20px;
+}
+
+.h4 {
+    height: 4px;
+}
+
+.h6 {
+    height: 6px;
+}
+
+.frame {
+    height: 200px;
+    width: 200px;
+    border: 2px solid #B1D3DD;
+    padding-top: 20px;
+}
+
+.pad24 {
+    padding-top: 22px;
+}
+
+.h40 {
+    height: 40px;
+}
+
+
+
