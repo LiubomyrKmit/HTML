@@ -1,0 +1,331 @@
+.box {
+    height: 300px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    background: #D9D9D9;
+    border-radius: 10px;
+    border: 3px solid grey;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    row-gap: 10px;
+}
+
+.boxA {
+    height: 100px;
+    width: auto;
+    border: 3px solid white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxB {
+    height: 200px;
+    width: 300px;
+    border-left: 3px solid white;
+    border-bottom: 3px solid white;
+    border-bottom-left-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.display {
+    display: flex;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.justcent {
+    justify-content: center;
+}
+
+.aliitem {
+    align-items: center;
+}
+
+.boxC {
+    height: 200px;
+    width: 100px;
+    border-left: 3px solid white;
+    border-bottom: 3px solid white;
+    border-right: 3px solid white;
+    border-bottom-right-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.w300 {
+    width: 300px;
+}
+
+.boxb2 {
+    height: 100px;
+    width: 300px;
+    border-left: 3px solid white;
+    border-bottom: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxc2 {
+    height: 100px;
+    width: 98px;
+    border-bottom: 3px solid white;
+    border-left: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bblr {
+    border-bottom-left-radius: 8px;
+}
+
+.br {
+    border-right: 3px solid white;
+}
+
+.boxf {
+    height: 200px;
+    width: 85px;
+    border-bottom: 3px solid white;
+    border-right: 3px solid white;
+    border-left: 3px solid white;
+    border-bottom-right-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.colmn {
+    flex-direction: column;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.boxf1 {
+    height: 185px;
+    width: 85px;
+    border-bottom: 3px solid white;
+    border-right: 3px solid white;
+    border-left: 3px solid white;
+    border-bottom-right-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxc23 {
+    height: 85px;
+    width: 98px;
+    border-bottom: 3px solid white;
+    border-left: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (min-width: 0px) and (max-width: 576px) {
+    .x1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: white;
+    }
+    .x11 {
+        width: 50vw;
+        height: 6vh;
+        background: grey;
+        border-radius: 10px;
+        }
+    .x12 {
+        width: 50vw;
+        height: 15vh;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 5px;
+    }
+    .x13 {
+        width: 50vw;
+        height:6vh;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 5px;
+    }
+    .x14 {
+        display: block;
+    }
+    .x2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        background: white;
+    }
+    .x21 {
+        width: 50vw;
+        height:4vh;
+        background: grey;
+        border-radius: 10px;
+    }
+    .x22 {
+        width: 50vw;
+        height: 7vh;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 15px;
+    }
+    .x27 {
+        display: block;
+        height: 0;
+    }
+    .x28 {
+        display: flex;
+        column-gap: 30px;
+        padding-top: 90px;
+    }
+    .x24 {
+        width: 50px;
+        height: 50px;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 15px;
+    }
+    .x25 {
+        width: 50px;
+        height: 50px;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 15px;
+    }
+    .x26 {
+        width: 50px;
+        height: 50px;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 15px;
+    }
+    .x23 {
+        width: 50vw;
+        height: 4vh;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 100px;
+    }
+    .x3 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        background: white;
+    }
+    .x31 {
+        width: 50vw;
+        height:4vh;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 5px;
+    }
+    .x39 {
+        height: 0;
+        column-gap: 20px;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .x32 {
+        width: 50px;
+        height: 50px;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 25px;
+    }
+    .x33 {
+        width: 50px;
+        height: 50px;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 25px;
+    }
+    .x34 {
+        width: 50px;
+        height: 50px;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 25px;
+    }
+    .x35 {
+        width: 50vw;
+        height: 4vh;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 110px;
+    }
+    .x36 {
+        width: 50px;
+        height: 50px;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 100px;
+    }
+    .x37 {
+        width: 50px;
+        height: 50px;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 100px;
+    }
+    .x38 {
+        width: 50px;
+        height: 50px;
+        background: grey;
+        border-radius: 10px;
+        margin-top: 100px;
+    }
+    .x40 {
+        column-gap: 20px;
+    }
+
+}
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    .box {
+        background: purple
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .box {
+        background: darkseagreen
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .box {
+        background: cornflowerblue
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+    .box {
+        background: rosybrown
+    }
+}
