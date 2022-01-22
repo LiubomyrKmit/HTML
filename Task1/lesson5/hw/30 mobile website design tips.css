@@ -1,0 +1,244 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.xx {
+    display: none;
+}
+
+.logo {
+    height: 40px;
+    width: 60px;
+    display: flex;
+}
+
+.brdrbot {
+    border-bottom: 3px solid white;
+}
+
+.brdright {
+    border-right: 3px solid white;
+}
+
+.main1 {
+    height: auto;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    background: #676767;
+}
+
+.nav {
+    height: 200px;
+    width: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.clrwhite {
+    color: white;
+}
+
+.clrred {
+    color: darkred;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.clmn {
+    flex-direction: column;
+}
+
+.header {
+    height: 40px;
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    width: 420px;
+}
+
+.box4 {
+    height: 80px;
+    width: 240px;
+    display: flex;
+}
+
+.pad5 {
+    padding-left: 5px;
+}
+
+.box5 {
+    height: 80px;
+    width: 117px;
+    display: flex;
+}
+
+.box6 {
+    height: 203px;
+    width: 240px;
+    display: flex;
+}
+
+.box7 {
+    height: 203px;
+    width: 117px;
+    display: flex;
+}
+
+.footer {
+    height: 80px;
+    width: 100%;
+    display: flex;
+}
+
+.w60 {
+    width: 63px;
+}
+
+.w360 {
+    width: 360px;
+}
+
+.w420 {
+    width: 423px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 576px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .xxx {
+        display: none;
+    }
+
+    .xx {
+        background: #676767;
+        width: 200px;
+        height: 470px;
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+    }
+
+    .xx1 {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .x1 {
+        width: 75px;
+        height: 30px;
+        border-bottom: 3px solid white;
+        border-right: 1px solid grey;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .x2 {
+        width: 124px;
+        height: 30px;
+        border-bottom: 3px solid white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .x3 {
+        width: 200px;
+        height: 30px;
+        border-bottom: 3px solid white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .x4 {
+        width: 122px;
+        height: 60px;
+        border-right: 3px solid white;
+        border-bottom: 3px solid white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .x5 {
+        width: 75px;
+        height: 60px;
+        border-bottom: 3px solid white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .x6 {
+        width: 200px;
+        height: 180px;
+        border-bottom: 3px solid white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .x7 {
+        width: 200px;
+        height: 60px;
+        border-bottom: 3px solid white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .x8 {
+        width: 100px;
+        height: 30px;
+        border-bottom: 3px solid white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .x9 {
+        width: 200px;
+        height: 60px;
+        border-bottom: 3px solid white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+}
